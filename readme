@@ -1,0 +1,20 @@
+# use chatgpt study mode to learn data mining
+
+## quick stats results
+
+1. Total orders rows: 3,421,083;
+2. The unique numeber of customer is 206,209;
+3. There are 49,688 unique products;
+4. Top 5 is:
+    shape: (5, 3)
+    ┌────────────┬────────┬────────────────────────┐
+    │ product_id ┆ count  ┆ product_name           │
+    │ ---        ┆ ---    ┆ ---                    │
+    │ i64        ┆ u32    ┆ str                    │
+    ╞════════════╪════════╪════════════════════════╡
+    │ 24852      ┆ 472565 ┆ Banana                 │
+    │ 13176      ┆ 379450 ┆ Bag of Organic Bananas │
+    │ 21137      ┆ 264683 ┆ Organic Strawberries   │
+    │ 21903      ┆ 241921 ┆ Organic Baby Spinach   │
+    │ 47209      ┆ 213584 ┆ Organic Hass Avocado   │
+    └────────────┴────────┴────────────────────────┘
